@@ -1,5 +1,5 @@
 import React from 'react'
-import Productos from './Servicios'
+import Productos from './Productos'
 
 
 function Inicio() {
